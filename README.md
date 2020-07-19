@@ -1,4 +1,12 @@
-### Hi there 👋
+# Claudio Canales - @Klaudioz
+
+### Hello friends !! 👋
+
+This is my space. My name is Claudio and I'm a DevOps/SRE/Cloud Engineer with 9 years of experience.
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=klaudioz)
+
+<img src="https://www.cncf.io/wp-content/uploads/2017/07/logo_cka_whitetext-2.png" width=200 align=center><img src="https://training.linuxfoundation.org/wp-content/uploads/2018/01/logo_lfcs.png" width=200 align=center><img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" width=200 align=center><img src="https://miro.medium.com/max/648/1*T59fnCvp71WqNeuytWGorA.png" width=200 align=center>
 
 <!--
 **Klaudioz/Klaudioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
