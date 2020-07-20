@@ -7,7 +7,7 @@ This is my space. My name is Claudio and I'm a DevOps/SRE/Cloud Engineer with 9 
 Some interesting projects I've been working:
 - Terraforming Docker environment using a Nginx Load balancer: https://github.com/Klaudioz/tf-docker-lb
 - Multiple tasks with Docker, bash and Kubernetes: https://github.com/Klaudioz/k8s-deploy-to-do
-- Python challenge using json as a input including tests: https://github.com/Klaudioz/lattice-challenge
+- Python challenge using json as an input including tests: https://github.com/Klaudioz/lattice-challenge
 - GitHub Actions example to execute actions when a particular label was set in a PR: https://github.com/Klaudioz/github_actions_private
 - GitOps with GitLabCI and GKE: https://gitlab.com/my-k8s-containers
 
