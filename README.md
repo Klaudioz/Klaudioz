@@ -9,7 +9,7 @@ Some interesting projects I've been working:
 - Multiple tasks with Docker, bash and Kubernetes: https://github.com/Klaudioz/k8s-deploy-to-do
 - Python challenge using json as an input including tests: https://github.com/Klaudioz/lattice-challenge
 - GitHub Actions example to execute actions when a particular label was set in a PR: https://github.com/Klaudioz/github_actions_private
-- GitOps with GitLabCI and GKE: https://gitlab.com/my-k8s-containers
+- GitOps with GitLabCI and GKE using Helm templates generated dynamically: https://gitlab.com/my-k8s-containers
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=klaudioz)
 
