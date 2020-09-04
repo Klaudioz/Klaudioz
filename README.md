@@ -11,7 +11,7 @@ Some interesting projects I've been working:
 - GitOps with GitLabCI and GKE using Helm templates generated dynamically: https://gitlab.com/my-k8s-containers
 
 #### Certifications
-<img src="https://www.cncf.io/wp-content/uploads/2017/07/logo_cka_whitetext-2.png" width=200 align=center>&nbsp;<img src="https://training.linuxfoundation.org/wp-content/uploads/2018/01/logo_lfcs.png" width=200 align=center>&nbsp;<img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" width=200 align=center>&nbsp;<img src="https://miro.medium.com/max/648/1*T59fnCvp71WqNeuytWGorA.png" width=200 align=center>
+<img src="https://www.cncf.io/wp-content/uploads/2020/08/logo_cka_whitetext-2-500x500.png" width=200 align=center>&nbsp;<img src="https://training.linuxfoundation.org/wp-content/uploads/2018/01/logo_lfcs.png" width=200 align=center>&nbsp;<img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" width=200 align=center>&nbsp;<img src="https://miro.medium.com/max/648/1*T59fnCvp71WqNeuytWGorA.png" width=200 align=center>
 
 #### Tech Stack
 <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
@@ -19,7 +19,6 @@ Some interesting projects I've been working:
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 
 #### How to reach me?
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canalesclaudio/)
