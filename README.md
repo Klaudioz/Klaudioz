@@ -11,7 +11,7 @@ Some interesting projects I've been working:
 - GitOps with GitLabCI and GKE using Helm templates generated dynamically: https://gitlab.com/my-k8s-containers
 
 #### Certifications
-<img src="https://www.cncf.io/wp-content/uploads/2020/08/logo_cka_whitetext-2-500x500.png" width=200 align=center>&nbsp;<img src="https://training.linuxfoundation.org/wp-content/uploads/2018/01/logo_lfcs.png" width=200 align=center>&nbsp;<img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" width=200 align=center>&nbsp;<img src="https://miro.medium.com/max/648/1*T59fnCvp71WqNeuytWGorA.png" width=200 align=center>
+<img src="https://www.cncf.io/wp-content/uploads/2020/08/logo_cka_whitetext-2-500x500.png" width=200 align=center>&nbsp;<img src="https://training.linuxfoundation.org/wp-content/uploads/2018/01/logo_lfcs.png" width=200 align=center>&nbsp;<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=200 align=center>&nbsp;<img src="https://miro.medium.com/max/648/1*T59fnCvp71WqNeuytWGorA.png" width=200 align=center>
 
 #### Tech Stack
 <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
