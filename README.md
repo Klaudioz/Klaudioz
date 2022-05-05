@@ -31,4 +31,8 @@ Some interesting projects I've been working:
 # Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  1,549 Karma Points           
+🌸  Completed 3 tasks today           
+✅  Completed 26 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
