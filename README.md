@@ -27,3 +27,8 @@ Some interesting projects I've been working:
 
 #### Repository stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=klaudioz)
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
