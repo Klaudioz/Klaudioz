@@ -32,7 +32,7 @@ Some interesting projects I've been working:
 
 <!-- TODO-IST:START -->
 🏆  2,580 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 59 tasks so far           
+🌸  Completed 2 tasks today           
+✅  Completed 60 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
