@@ -14,7 +14,7 @@ Some interesting projects I've been working:
 <img src="https://www.cncf.io/wp-content/uploads/2020/08/logo_cka_whitetext-2-500x500.png" width=200 align=center>&nbsp;<img src="https://training.linuxfoundation.org/wp-content/uploads/2018/01/logo_lfcs.png" width=200 align=center>&nbsp;<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=200 align=center>&nbsp;<img src="https://miro.medium.com/max/648/1*T59fnCvp71WqNeuytWGorA.png" width=200 align=center>
 
 #### Tech Stack
-<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img width="284" height="268" alt="image" src="https://github.com/user-attachments/assets/bbea9e37-9f56-4864-9f3a-ff5ed0f28e79" />
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
